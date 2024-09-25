@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"stdio.h": "c",
+		"philo.h": "c",
+		"ft_isdigit.C": "cpp"
+	}
+}
